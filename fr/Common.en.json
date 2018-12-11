@@ -13,13 +13,13 @@
 			"invalidServiceURL": "Veuillez entrer une URL valide %{service} . Si vous utilisez une URL shortener, utilisez l’URL d’origine. Si http:// ou https:// est manquant dans l’URL, ajoutez qu’avant d’essayer de sauver.",
 			"invalidStart": "Date de début doit être avant la Date de fin",
 			"invalidEnd": "Date de fin doit être après la Date de début",
-			"nonPrintable": "Cannot use non-printable characters",
-			"match": "Inputs do not match"
+			"nonPrintable": "Impossible d’utiliser les caractères non imprimables",
+			"match": "Entrées ne correspondent pas"
 		},
 		"activityState": {
-			"1": "Created",
-			"2": "In Progress",
-			"3": "Completed",
+			"1": "Créé",
+			"2": "En cours",
+			"3": "Terminé",
 			"5": "Invalid",
 			"6": "Called"
 		},
