@@ -98,51 +98,51 @@
 		"confirm": "Oui",
 		"deny": "Non",
 		"commaJoiner": ", ",
-		"andJoiner": " and ",
-		"orJoiner": " or ",
-		"noResults": "No Results",
-		"connectAccount": "Connect %{service} Account",
-		"learnMore": "Learn More",
-		"paid": "Paid",
-		"unpaid": "Unpaid",
-		"free": "Free",
+		"andJoiner": " et ",
+		"orJoiner": " ou ",
+		"noResults": "Aucun résultat",
+		"connectAccount": "Connecter compte %{service}",
+		"learnMore": "Pour en savoir plus",
+		"paid": "Payé",
+		"unpaid": "Non rémunéré",
+		"free": "Gratuit",
 		"region": {
-			"state": "State",
+			"state": "État",
 			"province": "Province"
 		},
 		"confirmation": {
-			"confirm": "Confirm"
+			"confirm": "Confirmer"
 		},
 		"cookies": {
-			"description": "We use cookies to improve your user experience. By continuing to use smash.gg, you consent to our use of cookies.",
-			"link": "Learn more",
-			"accept": "Accept"
+			"description": "Nous utilisons des cookies pour améliorer votre expérience d’utilisateur. En continuant à utiliser smash.gg, vous consentez à notre utilisation de cookies.",
+			"link": "Pour en savoir plus",
+			"accept": "Accepter"
 		},
 		"form": {
 			"unsavedChanges": {
-				"prompt": "You have unsaved changes. Are you sure you want to leave without saving?",
-				"confirmText": "Discard changes"
+				"prompt": "Vous avez des modifications non enregistrées. Êtes-vous sûr de que vouloir quitter sans enregistrer les modifications ?",
+				"confirmText": "Abandonner les modifications"
 			},
 			"email": {
-				"name": "Email",
-				"placeholder": "eg. john.smith@gmail.com",
-				"validation": "Please enter a valid email address"
+				"name": "Messagerie",
+				"placeholder": "par exemple. John.Smith@gmail.com",
+				"validation": "Veuillez entrer une adresse email valide"
 			},
 			"emailConfirm": {
-				"name": "Confirm Email",
-				"placeholder": "eg. john.smith@gmail.com",
-				"validation": "Email fields do not match"
+				"name": "Confirmez Email",
+				"placeholder": "par exemple. John.Smith@gmail.com",
+				"validation": "Zones de courrier électronique ne correspondent pas"
 			},
 			"password": {
-				"name": "Password",
-				"validation--min": "Passwords must be at least 6 characters"
+				"name": "Mot de passe",
+				"validation--min": "Mots de passe doivent comporter au moins 6 caractères"
 			},
 			"passwordConfirm": {
-				"name": "Confirm Password",
-				"validation": "Passwords don't match"
+				"name": "Confirmer mot de passe",
+				"validation": "Mots de passe ne correspondent pas"
 			},
 			"birthday": {
-				"name": "Birthday",
+				"name": "Anniversaire",
 				"validation": "Doit être au moins de 13 ans",
 				"validation--dynamic": "Doit être au moins de %{smart_count} ans"
 			},
@@ -169,7 +169,7 @@
 				"name": "Nom de famille"
 			},
 			"phoneNumber": {
-				"name": "Phone Number"
+				"name": "Numéro de téléphone"
 			}
 		}
 	}
