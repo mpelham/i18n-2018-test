@@ -5,7 +5,7 @@
 			"genericShort": "Erreur",
 			"isRequired": "%{fieldName} est nécessaire",
 			"isRequiredShort": "Obligatoire",
-			"isTimeRequired": "%{fieldName} est obligatoire et doit être entré au format HH : mm",
+			"isTimeRequired": "%{fieldName} est obligatoire et doit être entré au format HH:MM",
 			"minLength": "Doit être d’au moins %{length} caractères",
 			"maxLength": "Doit être inférieur à %{length} caractères",
 			"maxLines": "Impossible d’ajouter plus de %{limit} venus à la fois",
@@ -20,22 +20,22 @@
 			"1": "Créé",
 			"2": "En cours",
 			"3": "Terminé",
-			"5": "Invalid",
-			"6": "Called"
+			"5": "Non valide",
+			"6": "Appelé"
 		},
 		"bracket": {
 			"DQ": "DQ",
 			"W": "W",
 			"L": "L"
 		},
-		"percent": "%{percentage}% Complete",
-		"share": "Share on %{service}",
-		"search": "Search",
-		"online": "Online",
-		"offline": "In-Person",
+		"percent": "%{percentage}% complète",
+		"share": "Partagez sur %{service}",
+		"search": "Recherche",
+		"online": "En ligne",
+		"offline": "En personne",
 		"numEntrants": {
-			"1": "%{smart_count} player |||| %{smart_count} players",
-			"2": "%{smart_count} team |||| %{smart_count} teams",
+			"1": "%{smart_count} joueur |||| %{smart_count} joueurs",
+			"2": "équipe de %{smart_count} |||| %{smart_count} équipes",
 			"3": "%{smart_count} crew |||| %{smart_count} crews",
 			"5": "%{smart_count} team |||| %{smart_count} teams"
 		},
