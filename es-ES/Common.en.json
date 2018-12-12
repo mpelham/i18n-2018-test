@@ -1,0 +1,176 @@
+{
+	"Common": {
+		"errors": {
+			"generic": "Se ha producido un error",
+			"genericShort": "Error",
+			"isRequired": "%{fieldName} se requiere",
+			"isRequiredShort": "Obligatorio",
+			"isTimeRequired": "%{fieldName} es necesaria y debe introducirse en formato HH:MM",
+			"minLength": "Must be at least %{length} characters long",
+			"maxLength": "Must be shorter than %{length} characters",
+			"maxLines": "Cannot add more than %{limit} entrants at a time",
+			"invalidURL": "Please enter a valid URL, starting with http(s)://",
+			"invalidServiceURL": "Please enter a valid %{service} URL. If you are using a URL shortener, use the original URL instead. If http:// or https:// is missing from the URL, add that before trying to Save.",
+			"invalidStart": "Start Date must be before End Date",
+			"invalidEnd": "End Date must be after Start Date",
+			"nonPrintable": "Cannot use non-printable characters",
+			"match": "Inputs do not match"
+		},
+		"activityState": {
+			"1": "Created",
+			"2": "In Progress",
+			"3": "Completed",
+			"5": "Invalid",
+			"6": "Called"
+		},
+		"bracket": {
+			"DQ": "DQ",
+			"W": "W",
+			"L": "L"
+		},
+		"percent": "%{percentage}% Complete",
+		"share": "Share on %{service}",
+		"search": "Search",
+		"online": "Online",
+		"offline": "In-Person",
+		"numEntrants": {
+			"1": "%{smart_count} player |||| %{smart_count} players",
+			"2": "%{smart_count} team |||| %{smart_count} teams",
+			"3": "%{smart_count} crew |||| %{smart_count} crews",
+			"5": "%{smart_count} team |||| %{smart_count} teams"
+		},
+		"create": "Create",
+		"request": "Request",
+		"required": "Required",
+		"approve": "Approve",
+		"accept": "Accept",
+		"reject": "Reject",
+		"dismiss": "Dismiss",
+		"submit": "Submit",
+		"publish": "Submit and Publish",
+		"enable": "Enable",
+		"disable": "Disable",
+		"saving": "Saving",
+		"loading": "Loading",
+		"continue": "Continue",
+		"reset": "Reset",
+		"close": "Close",
+		"edit": "Edit",
+		"edit-delete": "Edit/Delete",
+		"swap": "Swap",
+		"save": "Save",
+		"view": "View",
+		"cancel": "Cancel",
+		"delete": "Delete",
+		"deleting": "Deleting",
+		"date": "Date",
+		"time": "Time",
+		"points": "Points",
+		"filter": "Filter",
+		"new": "New",
+		"clone--state": {
+			"initial": "Clone",
+			"saving": "Cloning",
+			"success": "Cloned"
+		},
+		"chooseFile": "Choose File",
+		"noFile": "No file chosen",
+		"basicMarkdown": "Basic markdown is supported",
+		"markdownLocation": "Where will this display?",
+		"showMarkdown": "Show %{toggle}",
+		"markdownHelp": "Help Formatting",
+		"preview": "Preview",
+		"editor": "Editor",
+		"bestOf": "Best of %{bestOfNum}",
+		"gameNum": "%{gameTerm} %{gameNum}",
+		"name": "Name",
+		"cost": "Cost",
+		"sort": "Sort",
+		"add": "Add",
+		"remove": "Remove",
+		"subtotal": "Subtotal: %{value}",
+		"total": "Total: %{value}",
+		"plusMore": "+%{count} more",
+		"more": "More",
+		"login": "Login",
+		"register": "Register",
+		"clickHere": "Click here",
+		"confirm": "Yes",
+		"deny": "No",
+		"commaJoiner": ", ",
+		"andJoiner": " and ",
+		"orJoiner": " or ",
+		"noResults": "No Results",
+		"connectAccount": "Connect %{service} Account",
+		"learnMore": "Learn More",
+		"paid": "Paid",
+		"unpaid": "Unpaid",
+		"free": "Free",
+		"region": {
+			"state": "State",
+			"province": "Province"
+		},
+		"confirmation": {
+			"confirm": "Confirm"
+		},
+		"cookies": {
+			"description": "We use cookies to improve your user experience. By continuing to use smash.gg, you consent to our use of cookies.",
+			"link": "Learn more",
+			"accept": "Accept"
+		},
+		"form": {
+			"unsavedChanges": {
+				"prompt": "You have unsaved changes. Are you sure you want to leave without saving?",
+				"confirmText": "Discard changes"
+			},
+			"email": {
+				"name": "Email",
+				"placeholder": "eg. john.smith@gmail.com",
+				"validation": "Please enter a valid email address"
+			},
+			"emailConfirm": {
+				"name": "Confirm Email",
+				"placeholder": "eg. john.smith@gmail.com",
+				"validation": "Email fields do not match"
+			},
+			"password": {
+				"name": "Password",
+				"validation--min": "Passwords must be at least 6 characters"
+			},
+			"passwordConfirm": {
+				"name": "Confirm Password",
+				"validation": "Passwords don't match"
+			},
+			"birthday": {
+				"name": "Birthday",
+				"validation": "Must be at least 13 years old",
+				"validation--dynamic": "Must be at least %{smart_count} years old"
+			},
+			"month": {
+				"name": "Month",
+				"shortName": "M"
+			},
+			"day": {
+				"name": "Day",
+				"shortName": "D"
+			},
+			"year": {
+				"name": "Year",
+				"shortName": "Y"
+			},
+			"price": {
+				"name": "Price",
+				"validation": "Must be a valid price"
+			},
+			"nameFirst": {
+				"name": "First Name"
+			},
+			"nameLast": {
+				"name": "Last Name"
+			},
+			"phoneNumber": {
+				"name": "Phone Number"
+			}
+		}
+	}
+}

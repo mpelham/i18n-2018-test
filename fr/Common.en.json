@@ -1,0 +1,176 @@
+{
+	"Common": {
+		"errors": {
+			"generic": "Une erreur s’est produite",
+			"genericShort": "Erreur",
+			"isRequired": "%{fieldName} est nécessaire",
+			"isRequiredShort": "Obligatoire",
+			"isTimeRequired": "%{fieldName} est obligatoire et doit être entré au format HH:MM",
+			"minLength": "Doit être d’au moins %{length} caractères",
+			"maxLength": "Doit être inférieur à %{length} caractères",
+			"maxLines": "Impossible d’ajouter plus de %{limit} venus à la fois",
+			"invalidURL": "Veuillez entrer une URL valide, en commençant par http(s)://",
+			"invalidServiceURL": "Veuillez entrer une URL valide %{service} . Si vous utilisez une URL shortener, utilisez l’URL d’origine. Si http:// ou https:// est manquant dans l’URL, ajoutez qu’avant d’essayer de sauver.",
+			"invalidStart": "Date de début doit être avant la Date de fin",
+			"invalidEnd": "Date de fin doit être après la Date de début",
+			"nonPrintable": "Impossible d’utiliser les caractères non imprimables",
+			"match": "Entrées ne correspondent pas"
+		},
+		"activityState": {
+			"1": "Créé",
+			"2": "En cours",
+			"3": "Terminé",
+			"5": "Non valide",
+			"6": "Appelé"
+		},
+		"bracket": {
+			"DQ": "DQ",
+			"W": "W",
+			"L": "L"
+		},
+		"percent": "%{percentage}% complète",
+		"share": "Partagez sur %{service}",
+		"search": "Recherche",
+		"online": "En ligne",
+		"offline": "En personne",
+		"numEntrants": {
+			"1": "%{smart_count} joueur |||| %{smart_count} joueurs",
+			"2": "équipe de %{smart_count} |||| %{smart_count} équipes",
+			"3": "%{smart_count} équipage |||| équipes de %{smart_count}",
+			"5": "équipe de %{smart_count} |||| %{smart_count} équipes"
+		},
+		"create": "Créer",
+		"request": "Demande",
+		"required": "Obligatoire",
+		"approve": "Approuver les",
+		"accept": "Accepter",
+		"reject": "Rejeter",
+		"dismiss": "Rejeter",
+		"submit": "Envoyer",
+		"publish": "Déposer et de publier",
+		"enable": "Activer",
+		"disable": "Désactiver",
+		"saving": "Économie",
+		"loading": "Chargement",
+		"continue": "Continuer",
+		"reset": "Réinitialiser",
+		"close": "Fermer",
+		"edit": "Modifier",
+		"edit-delete": "Modifier/supprimer",
+		"swap": "Échanger",
+		"save": "Enregistrer",
+		"view": "Vue",
+		"cancel": "Annuler",
+		"delete": "Supprimer",
+		"deleting": "Suppression de",
+		"date": "Date",
+		"time": "Temps",
+		"points": "Points",
+		"filter": "Filtre",
+		"new": "Nouveau",
+		"clone--state": {
+			"initial": "Cloner",
+			"saving": "Clonage",
+			"success": "Cloné"
+		},
+		"chooseFile": "Choisissez fichier",
+		"noFile": "Aucun fichier choisi",
+		"basicMarkdown": "Le démarquage de base est pris en charge",
+		"markdownLocation": "Où sera-ce affiché?",
+		"showMarkdown": "Afficher %{toggle}",
+		"markdownHelp": "Aide mise en forme",
+		"preview": "Aperçu",
+		"editor": "Éditeur",
+		"bestOf": "Meilleur des %{bestOfNum}",
+		"gameNum": "%{gameTerm} %{gameNum}",
+		"name": "Prénom",
+		"cost": "Coût",
+		"sort": "Trier",
+		"add": "Ajouter",
+		"remove": "Supprimer",
+		"subtotal": "Sous-total : %{value}",
+		"total": "Total : %{value}",
+		"plusMore": "+%{count} plus",
+		"more": "Plus",
+		"login": "S'identifier",
+		"register": "S’inscrire",
+		"clickHere": "Cliquez ici",
+		"confirm": "Oui",
+		"deny": "Non",
+		"commaJoiner": ", ",
+		"andJoiner": " et ",
+		"orJoiner": " ou ",
+		"noResults": "Aucun résultat",
+		"connectAccount": "Connecter compte %{service}",
+		"learnMore": "Pour en savoir plus",
+		"paid": "Payé",
+		"unpaid": "Non rémunéré",
+		"free": "Gratuit",
+		"region": {
+			"state": "État",
+			"province": "Province"
+		},
+		"confirmation": {
+			"confirm": "Confirmer"
+		},
+		"cookies": {
+			"description": "Nous utilisons des cookies pour améliorer votre expérience d’utilisateur. En continuant à utiliser smash.gg, vous consentez à notre utilisation de cookies.",
+			"link": "Pour en savoir plus",
+			"accept": "Accepter"
+		},
+		"form": {
+			"unsavedChanges": {
+				"prompt": "Vous avez des modifications non enregistrées. Êtes-vous sûr de que vouloir quitter sans enregistrer les modifications ?",
+				"confirmText": "Abandonner les modifications"
+			},
+			"email": {
+				"name": "Messagerie",
+				"placeholder": "par exemple. John.Smith@gmail.com",
+				"validation": "Veuillez entrer une adresse email valide"
+			},
+			"emailConfirm": {
+				"name": "Confirmez Email",
+				"placeholder": "par exemple. John.Smith@gmail.com",
+				"validation": "Zones de courrier électronique ne correspondent pas"
+			},
+			"password": {
+				"name": "Mot de passe",
+				"validation--min": "Mots de passe doivent comporter au moins 6 caractères"
+			},
+			"passwordConfirm": {
+				"name": "Confirmer mot de passe",
+				"validation": "Mots de passe ne correspondent pas"
+			},
+			"birthday": {
+				"name": "Anniversaire",
+				"validation": "Doit être au moins de 13 ans",
+				"validation--dynamic": "Doit être au moins de %{smart_count} ans"
+			},
+			"month": {
+				"name": "Mois",
+				"shortName": "M"
+			},
+			"day": {
+				"name": "Journée",
+				"shortName": "D"
+			},
+			"year": {
+				"name": "Année",
+				"shortName": "Y"
+			},
+			"price": {
+				"name": "Prix",
+				"validation": "Doit être un prix valable"
+			},
+			"nameFirst": {
+				"name": "Prénom"
+			},
+			"nameLast": {
+				"name": "Nom de famille"
+			},
+			"phoneNumber": {
+				"name": "Numéro de téléphone"
+			}
+		}
+	}
+}
