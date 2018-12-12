@@ -36,7 +36,7 @@
 		"numEntrants": {
 			"1": "%{smart_count} joueur |||| %{smart_count} joueurs",
 			"2": "équipe de %{smart_count} |||| %{smart_count} équipes",
-			"3": "%{smart_count} crew |||| %{smart_count} crews",
+			"3": "équipes de %{smart_count} |||| %{smart_count} équipage",
 			"5": "%{smart_count} team |||| %{smart_count} teams"
 		},
 		"create": "Create",
