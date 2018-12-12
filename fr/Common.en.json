@@ -87,16 +87,16 @@
 		"cost": "Coût",
 		"sort": "Trier",
 		"add": "Ajouter",
-		"remove": "Remove",
-		"subtotal": "Subtotal: %{value}",
-		"total": "Total: %{value}",
-		"plusMore": "+%{count} more",
-		"more": "More",
-		"login": "Login",
-		"register": "Register",
-		"clickHere": "Click here",
-		"confirm": "Yes",
-		"deny": "No",
+		"remove": "Supprimer",
+		"subtotal": "Sous-total : %{value}",
+		"total": "Total : %{value}",
+		"plusMore": "+%{count} plus",
+		"more": "Plus",
+		"login": "S'identifier",
+		"register": "S’inscrire",
+		"clickHere": "Cliquez ici",
+		"confirm": "Oui",
+		"deny": "Non",
 		"commaJoiner": ", ",
 		"andJoiner": " and ",
 		"orJoiner": " or ",
@@ -143,30 +143,30 @@
 			},
 			"birthday": {
 				"name": "Birthday",
-				"validation": "Must be at least 13 years old",
-				"validation--dynamic": "Must be at least %{smart_count} years old"
+				"validation": "Doit être au moins de 13 ans",
+				"validation--dynamic": "Doit être au moins de %{smart_count} ans"
 			},
 			"month": {
-				"name": "Month",
+				"name": "Mois",
 				"shortName": "M"
 			},
 			"day": {
-				"name": "Day",
+				"name": "Journée",
 				"shortName": "D"
 			},
 			"year": {
-				"name": "Year",
+				"name": "Année",
 				"shortName": "Y"
 			},
 			"price": {
-				"name": "Price",
-				"validation": "Must be a valid price"
+				"name": "Prix",
+				"validation": "Doit être un prix valable"
 			},
 			"nameFirst": {
-				"name": "First Name"
+				"name": "Prénom"
 			},
 			"nameLast": {
-				"name": "Last Name"
+				"name": "Nom de famille"
 			},
 			"phoneNumber": {
 				"name": "Phone Number"
